@@ -1,5 +1,5 @@
-let a="grapes"
-switch(a){
+let p="grapes";
+switch(p){
 case  "grapes":
 console.log("hy");
 break;
