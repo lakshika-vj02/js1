@@ -19,9 +19,10 @@ for(let o=1;o<=u;o++){
     console.log(sum);
 }*/
 // fatorial number
-let u=Number(prompt("enter a number"));
+/*let u=Number(prompt("enter a number"));
 let fact=1;
 for(let o=1;o<=u;o++){
      fact=fact*o;
     console.log(fact);
-}
+}*/
+print("hello lakshika")
